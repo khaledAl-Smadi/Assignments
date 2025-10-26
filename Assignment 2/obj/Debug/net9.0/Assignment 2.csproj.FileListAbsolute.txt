@@ -1,0 +1,14 @@
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\bin\Debug\net9.0\Assignment 2.exe
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\bin\Debug\net9.0\Assignment 2.deps.json
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\bin\Debug\net9.0\Assignment 2.runtimeconfig.json
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\bin\Debug\net9.0\Assignment 2.dll
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\bin\Debug\net9.0\Assignment 2.pdb
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\Assignment 2.AssemblyInfo.cs
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\Assignment 2.dll
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\refint\Assignment 2.dll
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\Assignment 2.pdb
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\Assignment 2.genruntimeconfig.cache
+C:\Users\96278\Desktop\coderz\Assignments\Assignment 2\obj\Debug\net9.0\ref\Assignment 2.dll
